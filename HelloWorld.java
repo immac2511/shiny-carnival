@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
+ * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved111.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -31,6 +31,7 @@
 
 /** 
  * The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
+ The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
  */
 public class HelloWorld {
   public static void main(String[] args) {
